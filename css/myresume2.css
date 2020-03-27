@@ -13,6 +13,7 @@ a {
 }
 .bg-primary {
     background-color: #1967A2!important;
+	backgroumd-image:url("img/45-degree-fabric-light.png");
 }
 h1, h2, h3, h4, h5, h6 {
 	text-transform:none;
