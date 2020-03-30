@@ -12,7 +12,6 @@ a {
     color: #52AAD2;
 }
 .bg-primary {
-    background-color: #1967A2!important;
     backgroumd-image: url("https://www.transparenttextures.com/patterns/brushed-alum.png");
 }
 h1, h2, h3, h4, h5, h6 {
@@ -23,4 +22,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .text-primary{
 	color: #52AAD2!important;
+}
+.bg-primary {
+    background-color: #1967A2!important;
 }
