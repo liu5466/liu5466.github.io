@@ -12,7 +12,7 @@ a {
     color: #52AAD2;
 }
 .bg-primary {
-    backgroumd-image: url("https://www.transparenttextures.com/patterns/brushed-alum-dark.png");
+    background-image: url("https://www.transparenttextures.com/patterns/brushed-alum-dark.png");
 }
 h1, h2, h3, h4, h5, h6 {
 	text-transform:none;
