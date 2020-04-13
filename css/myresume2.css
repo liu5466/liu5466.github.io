@@ -26,10 +26,7 @@ h1, h2, h3, h4, h5, h6 {
 .bg-primary {
     background-color: #1967A2!important;
 }
-.graph_set {
-    margin-top: 3rem;
+.subheading{
+	size: 1.2rem;
 }
-
-.small-text {
-    font-size: 1.2rem;
-}
+	
