@@ -27,6 +27,7 @@ h1, h2, h3, h4, h5, h6 {
     background-color: #1967A2!important;
 }
 .subheading{
-	size: 3rem;
+	font-size: 1.2rem;
+        text-transform: none;
+        letter-spacing: -0.05rem;
 }
-	
