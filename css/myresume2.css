@@ -34,8 +34,15 @@ tr:hover {
     text-align:left;
     background-color:#f5f5f5;
 }
+.card-columns {
+     width:300px;
+     height:200px;
+     padding:1.25rem;
+}
+.card bg-primary {
+     width:300px;
+     height:200px;
+}
 .card-img-top {
    width:100%;
-   border-top-left-radius:calc(.25rem-1px);
-   border-top-right-radius:calc(.25rem-1px);
 }
