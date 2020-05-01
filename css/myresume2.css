@@ -34,6 +34,12 @@ tr:hover {
     text-align:left;
     background-color:#f5f5f5;
 }
+.graph_set {
+     width:4500px;
+     height:2700px;
+     padding:1.25rem;
+     border:3px solid #ffffff
+}	
 .card-columns {
      width:1400px;
      height:800px;
