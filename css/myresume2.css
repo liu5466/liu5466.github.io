@@ -36,12 +36,12 @@ tr:hover {
 }
 .card-columns {
      width:300px;
-     height:400px;
+     height:200px;
      padding:1.25rem;
 }
 .card bg-primary {
      width:300px;
-     height:400px;
+     height:200px;
 }
 .card-img-top {
    width:100%;
