@@ -39,21 +39,10 @@ tr:hover {
      border-top-left-radius: calc(.25rem - 1px);
      border-top-right-radius: calc(.25rem - 1px);
 }
-#graph_set{
-	padding:1px;
-	margin:2px 
-}
-
-.row{
-     padding:1px;
-     margin:1px 
-}
-
 .col-md-4{
      border:4px solid #CCCDCF;
      margin:20px;
 }
-
 .photography{
 	width:100%;
 }
