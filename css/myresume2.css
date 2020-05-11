@@ -40,8 +40,8 @@ tr:hover {
      border-top-right-radius: calc(.25rem - 1px);
 }
 .col-md-4{
-     padding:2px;
-     border:2px solid #CCCDCF;
+     padding:1.25rem;
+     border:1.25rem solid #CCCDCF;
      margin:10px;
 }
 .photography{
