@@ -37,7 +37,7 @@ tr:hover {
 .row {
 	display:flex;
 	flex-direction:row;
-	fles-wrap:wrap;
+	flex-wrap:wrap;
 }
 .col-md-4{
      border:1px;
