@@ -34,16 +34,3 @@ tr:hover {
     text-align:left;
     background-color:#f5f5f5;
 }
-.row {
-	display:flex;
-	flex-direction:row;
-	flex-wrap:wrap;
-}
-.col-md-4{
-     border:1px;
-     margin:7px;
-     padding:5px;
-}
-.photography{
-	width:100%;
-}
