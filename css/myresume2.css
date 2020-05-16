@@ -112,3 +112,7 @@ tr:hover {
   .timeline-left::after, .timeline-right::after {
     left: 17px;
   }
+
+.h3 {
+     font-size:2rem;
+}
